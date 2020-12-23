@@ -10,6 +10,6 @@ Auflistung:
     *https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-knn/
 
 ### Ergebnis  
-Der "vorrausgesagte" Wert 1 entspricht Malignant (=schlecht verlaufend), 0 Benign (=gut verlaufend)
+Der "vorrausgesagte" Wert 1 entspricht Malignant (=schlecht verlaufend), 0 Benign (=gut verlaufend)  
 Ausgabe:   
 ![img.png](img.png)

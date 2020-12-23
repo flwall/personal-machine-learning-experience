@@ -31,5 +31,5 @@ klassifizierenden Daten war.
 
 #### Quellen
 
-https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
+https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496  
 https://www.bigdata-insider.de/was-ist-eine-support-vector-machine-a-880134/
